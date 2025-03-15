@@ -16,7 +16,7 @@ app.use(cors({
   origin: [
     'https://robert-clark-4dee.mykajabi.com', 
     'http://localhost:5000', 
-    'https://cli-backend.onrender.com',
+    'https://cli-backend-g0lg.onrender.com',
     'https://advisory.valoraanalytics.com'
   ],
   methods: ['GET', 'POST', 'OPTIONS'],
